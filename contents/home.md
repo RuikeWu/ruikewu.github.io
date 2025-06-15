@@ -2,7 +2,7 @@
 
 I will be joining the School of Economics at Shanghai University of Finance and Economics as an Assistant Professor. I obtained my PhD in the School of Economics, Xiamen University.
 
-My work has been published in leading econometrics and statistics journals, including <strong>Journal of Econometrics<strong>, <strong>Econometric Theory<strong>, Statistica Sinica, and Journal of Time Series Analysis.
+My work has been published in leading econometrics and statistics journals, including <strong>Journal of Econometrics</strong>, <strong>Econometric Theory</strong>, Statistica Sinica, and Journal of Time Series Analysis.
 
 #### Email
 wrkworld[at]163.com
