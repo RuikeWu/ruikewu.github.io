@@ -1,3 +1,5 @@
+<strong>Asterisk (*)</strong> denotes the corresponding author. <strong>Hash (#)</strong> denotes co-first authorship (in alphabetical order) .
+
 - Jilin Wu, <strong>Ruike Wu#</strong>, Zhijie Xiao. (2025+). A Nonparametric Test for Instantaneous Causality with Time-varying Variances. <strong>Econometric Theory</strong>. Online. [[Official website]](https://doi.org/10.1017/S0266466624000409). [[Paper]](https://drive.google.com/file/d/14yHlOIuTPrJoZbKGpCYBKB_onVldOnof/view?usp=sharing)
 
 - <strong>Ruike Wu</strong>, Shuping Shi, Jilin Wu. (2024+). Quantile Analysis for Financial Bubble Detection and Surveillance. Online. <strong>Journal of Time Series Analysis</strong>. Online. [[Official website]](https://onlinelibrary.wiley.com/doi/10.1111/jtsa.12791). [[Code]](https://drive.google.com/file/d/17It2ioP58bhyp35gvIixlv4QtQc5NU69/view?usp=sharing). [[Paper]](https://drive.google.com/file/d/1UP9_oKbAeex4CsFWbcvwDWYkLlWnwbdN/view?usp=sharing)

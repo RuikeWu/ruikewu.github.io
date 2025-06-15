@@ -1,1 +1,1 @@
-- test
+- Ruike Wu, Yanrong Yang, Hanlin Shang, Huanjun Zhu. Uncertainty Learning for High-dimensional Mean-variance Portfolio, <strong>Major Revision at Journal of Econometrics</strong>.
