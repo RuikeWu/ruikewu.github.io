@@ -16,7 +16,7 @@ B.A. Statistics, Beijing Forestry University, 2019.
 #### I am open to all forms of academic communication and collaboration!
 
 #### Email
-wrkworld[at]163.com
+wrkworld[at]163.com.
 
 #### Address
 No.422 Siming South Road, Xiamen University, Xiamen, 361005,  China.
