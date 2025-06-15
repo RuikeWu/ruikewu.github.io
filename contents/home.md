@@ -1,16 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+Google site website(https://sites.google.com/view/ruikewu/home)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I will be joining the School of Economics at Shanghai University of Finance and Economics as an Assistant Professor. I obtained my PhD in the School of Economics, Xiamen University.\
+
+My work has been published in leading econometrics and statistics journals, including Journal of Econometrics, Econometric Theory, Statistica Sinica, and Journal of Time Series Analysis.
 
 #### Email
-sli[at]cumt.edu.cn
+wrkworld[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D. Financial engineering, Department of finance, School of Economics, Xiamen University, 2025.\
+Joint Ph.D. at the Research School of Statistics, College of Business and Economics, The Australian National University (September 2023 – August 2024)\
+B.A. Statistics, Beijing Forestry University, 2019.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Structural change detection, High-dimensional portfolio management.
 
