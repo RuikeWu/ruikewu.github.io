@@ -19,5 +19,5 @@ B.A. Statistics, Beijing Forestry University, 2019.
 wrkworld[at]163.com
 
 #### Address
-Current Address:No.422 Siming South Road, Xiamen University, Xiamen, 361005,  China.
+No.422 Siming South Road, Xiamen University, Xiamen, 361005,  China.
 
