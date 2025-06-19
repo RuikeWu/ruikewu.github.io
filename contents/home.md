@@ -5,12 +5,12 @@ I will be joining the School of Economics at Shanghai University of Finance and 
 My work has been published in leading econometrics and statistics journals, including <strong>Journal of Econometrics</strong>, <strong>Econometric Theory</strong>, Statistica Sinica, and Journal of Time Series Analysis.
 
 #### Research Interests
-Structural change detection, High-dimensional portfolio management.
+Structural change detection, High-dimensional portfolio management, Machine learning in Finance
 
 #### Education
-Ph.D. Financial engineering, Department of finance, School of Economics, Xiamen University, 2025.\
-Joint Ph.D. at the Research School of Statistics, College of Business and Economics, The Australian National University (September 2023 – August 2024)\
-B.A. Statistics, Beijing Forestry University, 2019.
+Ph.D.       School of Economics, Xiamen University, 2025.\
+Joint Ph.D. Research School of Statistics, College of Business and Economics, The Australian National University (September 2023 – August 2024)\
+B.A.        School of Economics and Management, Beijing Forestry University, 2019.
 
 
 #### I am open to all forms of academic communication and collaboration!
