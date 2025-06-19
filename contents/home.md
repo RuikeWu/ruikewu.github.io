@@ -10,7 +10,25 @@ Structural change detection, High-dimensional portfolio management, Machine lear
 #### Education
 Ph.D.       School of Economics, Xiamen University, 2025.\
 Joint Ph.D. Research School of Statistics, College of Business and Economics, The Australian National University (September 2023 – August 2024)\
-B.A.        School of Economics and Management, Beijing Forestry University, 2019.
+B.A.        School of Economics and Management, Beijing Forestry University, 2019.\
+<table>
+  <tr>
+    <td><strong>Ph.D.</strong></td>
+    <td>School of Economics, Xiamen University</td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td><strong>Joint Ph.D.</strong></td>
+    <td>Research School of Statistics, ANU</td>
+    <td>Sep 2023 – Aug 2024</td>
+  </tr>
+  <tr>
+    <td><strong>B.A.</strong></td>
+    <td>School of Economics and Management, Beijing Forestry University</td>
+    <td>2019</td>
+  </tr>
+</table>
+
 
 
 #### I am open to all forms of academic communication and collaboration!
