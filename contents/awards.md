@@ -1,3 +1,5 @@
+- 2025 International Symposium on Time Series and Panel Data in the AI era, 2025 (Xiamen, China).
+
 - The 7th China Econometric Scholars Forum, 2024 (Shanghai, China).
 
 - The 40th Anniversary Celebration of the National Industrial Statistics Education and Research Association & 2024 Annual Academic Conference, 2024 (Shanghai, China).
