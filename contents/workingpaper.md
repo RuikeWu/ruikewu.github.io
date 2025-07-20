@@ -4,7 +4,7 @@
 
 - Qingliang Fan, <strong>Ruike Wu*</strong>, Yanrong Yang. Shocks-adaptive Robust Minimum Variance Portfolio for a Large Universe of Assets, <strong>Major Revision at Journal of Econometrics</strong>. [[Working Paper]](https://arxiv.org/abs/2410.01826).
 
-- <strong>吴睿珂</strong>, 吴吉林. 基于实时泡沫监测技术的中国股市投资决策研究. <strong>计量经济学报修改</strong>. [[Working Paper]](https://www.bing.com/search?q=Riding%20bubble%20Ruike%20WU&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=riding%20bubble%20ruike%20w&sc=10-21&sk=&cvid=ABA136F44098489BB8607B027B241AB6)(English version).
+- <strong>吴睿珂</strong>, 吴吉林. 基于实时泡沫监测技术的中国股市投资决策研究. <strong>计量经济学报三审</strong>. [[Working Paper]](https://www.bing.com/search?q=Riding%20bubble%20Ruike%20WU&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=riding%20bubble%20ruike%20w&sc=10-21&sk=&cvid=ABA136F44098489BB8607B027B241AB6)(English version).
 
 - Jilin Wu, Ruike Wu, Zhijie Xiao, Mengxi Zhang. A robust nonparametric test for structural changes in multivariate volatility.
 
