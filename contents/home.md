@@ -11,17 +11,17 @@ Structural change detection, High-dimensional portfolio management, Machine lear
 <table>
   <tr>
     <td><strong>Ph.D.</strong></td>
-    <td style="padding-right: 80px;">School of Economics, Xiamen University</td>
+    <td style="padding-right: 80px;">Xiamen University</td>
     <td style="padding-right: 50px;">2025</td>
   </tr>
   <tr>
     <td><strong>Joint Ph.D.</strong></td>
-    <td style="padding-right: 80px;">Research School of Statistics, College of Business and Economics, The Australian National University</td>
+    <td style="padding-right: 80px;">The Australian National University</td>
     <td style="padding-right: 50px;">Sep 2023 – Aug 2024</td>
   </tr>
   <tr>
     <td><strong>B.A.</strong></td>
-    <td style="padding-right: 80px;">School of Economics and Management, Beijing Forestry University</td>
+    <td style="padding-right: 80px;">Beijing Forestry University</td>
     <td style="padding-right: 50px;">2019</td>
   </tr>
 </table>
