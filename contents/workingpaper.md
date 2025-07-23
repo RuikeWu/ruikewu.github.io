@@ -8,5 +8,5 @@
 
 - Jilin Wu, Ruike Wu, Zhijie Xiao, Mengxi Zhang. A robust nonparametric test for structural changes in multivariate volatility.
 
-- Qingliang Fan, Ruike Wu, Yanrong Yang. Adaptive Multi-task Learning for Multi-sector Portfolio Optimization.[[working paper]](https://arxiv.org/abs/2507.16433).
+- Qingliang Fan, Ruike Wu, Yanrong Yang. Adaptive Multi-task Learning for Multi-sector Portfolio Optimization.[[Working paper]](https://arxiv.org/abs/2507.16433).
 
