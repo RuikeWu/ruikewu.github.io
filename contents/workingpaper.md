@@ -10,3 +10,4 @@
 
 - Qingliang Fan, Ruike Wu, Yanrong Yang. Adaptive Multi-task Learning for Multi-sector Portfolio Optimization.[[Working paper]](https://arxiv.org/abs/2507.16433).
 
+
