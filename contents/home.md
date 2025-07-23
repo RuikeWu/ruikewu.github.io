@@ -27,6 +27,9 @@ Structural change detection, High-dimensional portfolio management, Machine lear
 </table>
 
 
+\\
+
+\\ 
 
 #### I am open to all forms of academic communication and collaboration!
 
