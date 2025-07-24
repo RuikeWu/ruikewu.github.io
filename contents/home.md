@@ -36,7 +36,7 @@ Structural change detection, High-dimensional portfolio management, Machine lear
 
 
 #### Email
-wrkworld[at]163.com.
+wuruike[at]mail.sufe.edu.cn. 
 
 #### Address
 No.422 Siming South Road, Xiamen University, Xiamen, 361005,  China.
