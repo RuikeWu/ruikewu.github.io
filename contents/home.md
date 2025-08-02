@@ -39,5 +39,5 @@ Structural change detection, High-dimensional portfolio management, Machine lear
 wuruike[at]mail.sufe.edu.cn. 
 
 #### Address
-No.422 Siming South Road, Xiamen University, Xiamen, 361005,  China.
+No.777 Guoding Road, Shanghai University of Finance and Economics, Shanghai, 200433,  China.
 
