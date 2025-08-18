@@ -7,6 +7,7 @@ My work has been published in leading econometrics and statistics journals, incl
 #### Research Interests
 Structural change detection, High-dimensional portfolio management, Machine learning in Finance
 
+
 #### Education
 <table>
   <tr>
