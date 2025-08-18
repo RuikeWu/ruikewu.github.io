@@ -1,5 +1,7 @@
 <strong>Asterisk (*)</strong> denotes the corresponding author. <strong>Hash (#)</strong> denotes co-first authorship (in alphabetical order) .
 
+- <strong>吴睿珂</strong>, 吴吉林. Forthcoming. 基于实时泡沫监测技术的中国股市投资决策研究. <strong>计量经济学报</strong>. [[English version]](https://www.bing.com/search?q=Riding%20bubble%20Ruike%20WU&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=riding%20bubble%20ruike%20w&sc=10-21&sk=&cvid=ABA136F44098489BB8607B027B241AB6).
+
 - Jilin Wu, <strong>Ruike Wu#</strong>, Zhijie Xiao. (2025+). A Nonparametric Test for Instantaneous Causality with Time-varying Variances. <strong>Econometric Theory</strong>. Online. [[Official website]](https://doi.org/10.1017/S0266466624000409). [[Paper]](https://drive.google.com/file/d/14yHlOIuTPrJoZbKGpCYBKB_onVldOnof/view?usp=sharing)
 
 - <strong>Ruike Wu</strong>, Shuping Shi, Jilin Wu. (2024). Quantile Analysis for Financial Bubble Detection and Surveillance. <strong>Journal of Time Series Analysis</strong>. 46(5): 908-931. [[Official website]](https://onlinelibrary.wiley.com/doi/10.1111/jtsa.12791). [[Code]](https://drive.google.com/file/d/17It2ioP58bhyp35gvIixlv4QtQc5NU69/view?usp=sharing). [[Paper]](https://drive.google.com/file/d/1UP9_oKbAeex4CsFWbcvwDWYkLlWnwbdN/view?usp=sharing)
