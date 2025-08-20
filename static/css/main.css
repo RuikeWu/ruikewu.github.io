@@ -5,6 +5,11 @@
     --h-title-color:#8B0000;
 }
 
+
+strong {
+    font-weight: 700 !important;
+}
+
 .header {
     border-bottom: solid 2px var(--bs-red);
     z-index: 10000;
