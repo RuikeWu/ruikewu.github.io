@@ -6,8 +6,13 @@
 }
 
 .header {
-    border-bottom: solid 2px var(--bs-blue);
+    border-bottom: solid 2px var(--bs-red);
     z-index: 10000;
+}
+
+a {
+    color: #8B0000;   /* 暗红色 */
+    text-decoration: none; /* 去掉下划线（可选） */
 }
 
 .bg-bottom {
