@@ -37,7 +37,7 @@ Structural change detection, High-dimensional portfolio management, Machine lear
 
 
 #### Email
-Feel free to reach me at wuruike[at]mail.sufe.edu.cn. 
+Feel free to reach me at wuruike[at]mail.shufe.edu.cn. 
 
 #### Address
 No.777 Guoding Road, Shanghai University of Finance and Economics, Shanghai, 200433,  China.
