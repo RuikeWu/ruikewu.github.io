@@ -1,6 +1,6 @@
 <strong>Asterisk (*)</strong> denotes the corresponding author. <strong>Hash (#)</strong> denotes co-first authorship (in alphabetical order) .
 
-- <strong>Ruike Wu</strong>, Yanrong Yang, Hanlin Shang, Huanjun Zhu. Forthcoming. Making Distributionally Robust Portfolios Feasible in High Dimension, <strong>Journal of Econometrics</strong>. [[Working Paper]](https://arxiv.org/abs/2405.16989).                                          
+- <strong>Ruike Wu</strong>, Yanrong Yang, Hanlin Shang, Huanjun Zhu. 2025. Making Distributionally Robust Portfolios Feasible in High Dimension, <strong>Journal of Econometrics</strong>. [[Code]](https://github.com/RuikeWu/HD-DRO). [[Official website]](https://www.sciencedirect.com/science/article/pii/S0304407625001721).                                          
 
 - <strong>吴睿珂</strong>, 吴吉林. Forthcoming. 基于实时泡沫监测技术的中国股市投资决策研究. <strong>计量经济学报</strong>. [[English version]](https://www.bing.com/search?q=Riding%20bubble%20Ruike%20WU&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=riding%20bubble%20ruike%20w&sc=10-21&sk=&cvid=ABA136F44098489BB8607B027B241AB6).
 
