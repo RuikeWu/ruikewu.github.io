@@ -2,8 +2,6 @@
 
 - <strong>Ruike Wu</strong>, Yanrong Yang, Hanlin Shang, Huanjun Zhu. (2025). Making Distributionally Robust Portfolios Feasible in High Dimension, <strong>Journal of Econometrics</strong>. [[Code]](https://github.com/RuikeWu/HD-DRO). [[Official website]](https://www.sciencedirect.com/science/article/pii/S0304407625001721).                                          
 
-- <strong>吴睿珂</strong>, 吴吉林. (2025). 基于实时泡沫监测技术的中国股市投资决策研究. <strong>计量经济学报</strong>. [[Official website]](https://kns.cnki.net/kcms2/article/abstract?v=o8vMLOX1CKuOAadqRKTMeqEbQv6n03noFj7e0XSg6XvRHgXEysn5jbUejNHgNFT1-GXcHhB_SyRFfWI99BTJ6dqMTzmbiVCTAPpMRBCkKUjnmrdCkSPsaHKu6rr8Fp_8BQHrsDJWKdn0l94BeT2NrE0fecA31ludRFu6F_dIisJa3T6A-Sk9GQ==&uniplatform=NZKPT&language=CHS).[[English version]](https://www.bing.com/search?q=Riding%20bubble%20Ruike%20WU&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=riding%20bubble%20ruike%20w&sc=10-21&sk=&cvid=ABA136F44098489BB8607B027B241AB6).
-
 - Jilin Wu, <strong>Ruike Wu#</strong>, Zhijie Xiao. (2025+). A Nonparametric Test for Instantaneous Causality with Time-varying Variances. <strong>Econometric Theory</strong>. Online. [[Official website]](https://doi.org/10.1017/S0266466624000409). [[Paper]](https://drive.google.com/file/d/14yHlOIuTPrJoZbKGpCYBKB_onVldOnof/view?usp=sharing).
 
 - Jilin Wu, <strong>Ruike Wu#</strong>, Zhijie Xiao. (2026). Robust Tests for Changing Volatility. <strong>Statistica Sinica</strong>. 36(1): 1-26. [[Official website]](https://www3.stat.sinica.edu.tw/LatestART/SS-2023-0207_fp.pdf). [[Paper]](https://drive.google.com/file/d/1y0uk7b4xccIWtCyGUtzcWIlyRluZDZ7Y/view?usp=sharing). [[Supplement]](https://drive.google.com/file/d/1PL4tdePIQr9PASDpgSs8dBS4Qp1eOCkg/view?usp=sharing).
@@ -11,5 +9,10 @@
 - <strong>Ruike Wu</strong>, Shuping Shi, Jilin Wu. (2025). Quantile Analysis for Financial Bubble Detection and Surveillance. <strong>Journal of Time Series Analysis</strong>. 46(5): 908-931. [[Official website]](https://onlinelibrary.wiley.com/doi/10.1111/jtsa.12791). [[Code]](https://drive.google.com/file/d/17It2ioP58bhyp35gvIixlv4QtQc5NU69/view?usp=sharing). [[Paper]](https://drive.google.com/file/d/1UP9_oKbAeex4CsFWbcvwDWYkLlWnwbdN/view?usp=sharing).
 
 - Qingliang Fan, <strong>Ruike Wu#</strong>, Yanrong Yang, Wei Zhong. (2024). Time-varying minimum variance portfolio. <strong>Journal of Econometrics</strong>. 239(2), 105339. [[Official website]](https://www.sciencedirect.com/science/article/abs/pii/S0304407622001646). [[Code]](https://github.com/RuikeWu/TV-MVP). [[Paper]](https://drive.google.com/file/d/19ucctAdbZQ8LQO87cqOw2-e8PNofTFvA/view?usp=sharing).[[R package]](https://cran.r-project.org/web//packages//TVMVP/vignettes/TVMVP_overview.html).
+
+
+<br><br>
+
+- <strong>吴睿珂</strong>, 吴吉林. (2025). 基于实时泡沫监测技术的中国股市投资决策研究. <strong>计量经济学报</strong>. [[Official website]](https://kns.cnki.net/kcms2/article/abstract?v=o8vMLOX1CKuOAadqRKTMeqEbQv6n03noFj7e0XSg6XvRHgXEysn5jbUejNHgNFT1-GXcHhB_SyRFfWI99BTJ6dqMTzmbiVCTAPpMRBCkKUjnmrdCkSPsaHKu6rr8Fp_8BQHrsDJWKdn0l94BeT2NrE0fecA31ludRFu6F_dIisJa3T6A-Sk9GQ==&uniplatform=NZKPT&language=CHS).[[English version]](https://www.bing.com/search?q=Riding%20bubble%20Ruike%20WU&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=riding%20bubble%20ruike%20w&sc=10-21&sk=&cvid=ABA136F44098489BB8607B027B241AB6).
 
 - 张振环, 吴吉林, <strong>吴睿珂</strong>. (2023). 厚尾数据的波动率结构变化检验及应用研究. <strong>统计研究</strong>. 40(11): 136-147. [[Official website]](https://tjyj.stats.gov.cn/CN/10.19343/j.cnki.11%E2%80%931302/c.2023.11.011). [[Code]](https://github.com/RuikeWu/Volatility-Structural-Changing-Test-with-Heavy-tailed-innovations). [[Paper]](https://drive.google.com/file/d/1tLFkRHFkD4Gy8USiIPyBZy-vQ_FLc3O2/view?usp=sharing).
