@@ -4,40 +4,17 @@ I am an Assistant Professor at Shanghai University of Finance and Economics. I o
 
 My work has been published in leading econometrics and statistics journals, including <strong>Journal of Econometrics</strong>, <strong>Econometric Theory</strong>, Statistica Sinica, and Journal of Time Series Analysis.
 
+<br>
+
 #### Research Interests
 Structural change detection, High-dimensional portfolio management, Machine learning in Finance
 
-
-#### Education
-<table>
-  <tr>
-    <td><strong>Ph.D.</strong></td>
-    <td style="padding-right: 80px;">Xiamen University</td>
-    <td style="padding-right: 50px;">2025</td>
-  </tr>
-  <tr>
-    <td><strong>Joint Ph.D.</strong></td>
-    <td style="padding-right: 80px;">The Australian National University</td>
-    <td style="padding-right: 50px;">Sep 2023 – Aug 2024</td>
-  </tr>
-  <tr>
-    <td><strong>B.A.</strong></td>
-    <td style="padding-right: 80px;">Beijing Forestry University</td>
-    <td style="padding-right: 50px;">2019</td>
-  </tr>
-</table>
-
-
-
-
-
-
-#### I am open to all forms of academic communication and collaboration!
-
-
+<br>
 
 #### Email
 Feel free to reach me at wuruike[at]mail.shufe.edu.cn. 
+
+<br>
 
 #### Address
 No.777 Guoding Road, Shanghai University of Finance and Economics, Shanghai, 200433,  China.
