@@ -1,7 +1,7 @@
 
 
 I am an Assistant Professor at Shanghai University of Finance and Economics. I obtained my PhD in the School of Economics, Xiamen University.
-
+<br>
 My work has been published in leading econometrics and statistics journals, including <strong>Journal of Econometrics</strong>, <strong>Econometric Theory</strong>, Statistica Sinica, and Journal of Time Series Analysis.
 
 <br>
