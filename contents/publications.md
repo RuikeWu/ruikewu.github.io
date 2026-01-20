@@ -1,6 +1,6 @@
 <strong>Asterisk (*)</strong> denotes the corresponding author. <strong>Hash (#)</strong> denotes co-first authorship (in alphabetical order) .
 
-Jilin Wu, <strong>Ruike Wu*</strong>, Zhijie Xiao. Forthcoming. Adaptive LAD-based Bootstrap Unit Root Tests under Unconditional Heterokskedasticity, <strong>Journal of Business and Economic Statistics</strong>. .
+- Jilin Wu, <strong>Ruike Wu*</strong>, Zhijie Xiao. Forthcoming. Adaptive LAD-based Bootstrap Unit Root Tests under Unconditional Heterokskedasticity, <strong>Journal of Business & Economic Statistics</strong>. .
 
 - <strong>Ruike Wu</strong>, Yanrong Yang, Hanlin Shang, Huanjun Zhu. (2025). Making Distributionally Robust Portfolios Feasible in High Dimension, <strong>Journal of Econometrics</strong>. [[Code]](https://github.com/RuikeWu/HD-DRO). [[Official website]](https://www.sciencedirect.com/science/article/pii/S0304407625001721).                                          
 
