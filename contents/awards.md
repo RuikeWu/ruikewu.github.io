@@ -1,4 +1,4 @@
-* 入选2025上海市"晨光计划"
+* Selected for the 2026 Shanghai "Morning Light Program" （入选上海市晨光计划）
 
 
 * The 6th Workshop on Big Data Econometrics: Theory and Applications — Econometric Modeling and Statistical Learning for Time Series Data,  2025 (Wuhan, China).

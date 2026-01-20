@@ -1,5 +1,7 @@
 <strong>Asterisk (*)</strong> denotes the corresponding author. <strong>Hash (#)</strong> denotes co-first authorship (in alphabetical order) .
 
+Jilin Wu, <strong>Ruike Wu*</strong>, Zhijie Xiao. Forthcoming. Adaptive LAD-based Bootstrap Unit Root Tests under Unconditional Heterokskedasticity, <strong>Journal of Business and Economic Statistics</strong>. .
+
 - <strong>Ruike Wu</strong>, Yanrong Yang, Hanlin Shang, Huanjun Zhu. (2025). Making Distributionally Robust Portfolios Feasible in High Dimension, <strong>Journal of Econometrics</strong>. [[Code]](https://github.com/RuikeWu/HD-DRO). [[Official website]](https://www.sciencedirect.com/science/article/pii/S0304407625001721).                                          
 
 - Jilin Wu, <strong>Ruike Wu#</strong>, Zhijie Xiao. (2025+). A Nonparametric Test for Instantaneous Causality with Time-varying Variances. <strong>Econometric Theory</strong>. Online. [[Official website]](https://doi.org/10.1017/S0266466624000409). [[Paper]](https://drive.google.com/file/d/14yHlOIuTPrJoZbKGpCYBKB_onVldOnof/view?usp=sharing).
