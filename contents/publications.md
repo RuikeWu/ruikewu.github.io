@@ -15,6 +15,6 @@
 
 <br><br>
 
-- <strong>吴睿珂</strong>, 吴吉林. (2025). 基于实时泡沫监测技术的中国股市投资决策研究. <strong>计量经济学报</strong>. [[Official website]](https://kns.cnki.net/kcms2/article/abstract?v=o8vMLOX1CKuOAadqRKTMeqEbQv6n03noFj7e0XSg6XvRHgXEysn5jbUejNHgNFT1-GXcHhB_SyRFfWI99BTJ6dqMTzmbiVCTAPpMRBCkKUjnmrdCkSPsaHKu6rr8Fp_8BQHrsDJWKdn0l94BeT2NrE0fecA31ludRFu6F_dIisJa3T6A-Sk9GQ==&uniplatform=NZKPT&language=CHS).[[English version]](https://www.bing.com/search?q=Riding%20bubble%20Ruike%20WU&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=riding%20bubble%20ruike%20w&sc=10-21&sk=&cvid=ABA136F44098489BB8607B027B241AB6).
+- <strong>吴睿珂</strong>, 吴吉林. (2026). 基于实时泡沫监测技术的中国股市投资决策研究. <strong>计量经济学报</strong>. 6(1): 90-116. [[Official website]](https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2025-0051).[[English version]](https://www.bing.com/search?q=Riding%20bubble%20Ruike%20WU&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=riding%20bubble%20ruike%20w&sc=10-21&sk=&cvid=ABA136F44098489BB8607B027B241AB6).
 
 - 张振环, 吴吉林, <strong>吴睿珂</strong>. (2023). 厚尾数据的波动率结构变化检验及应用研究. <strong>统计研究</strong>. 40(11): 136-147. [[Official website]](https://tjyj.stats.gov.cn/CN/10.19343/j.cnki.11%E2%80%931302/c.2023.11.011). [[Code]](https://github.com/RuikeWu/Volatility-Structural-Changing-Test-with-Heavy-tailed-innovations). [[Paper]](https://drive.google.com/file/d/1tLFkRHFkD4Gy8USiIPyBZy-vQ_FLc3O2/view?usp=sharing).
