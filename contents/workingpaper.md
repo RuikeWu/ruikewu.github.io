@@ -4,4 +4,4 @@
 
 - Qingliang Fan, Ruike Wu, Yanrong Yang. Adaptive Multi-task Learning for Multi-sector Portfolio Optimization.[[Working paper]](https://arxiv.org/abs/2507.16433).
 
-- Ruike Wu, Yonghe Lu, Yanrong Yang. Sustainable Investment: ESG Impacts on Large Portfolio.
+- Ruike Wu, Yonghe Lu, Yanrong Yang. Sustainable Investment: ESG Impacts on Large Portfolio.[[Working paper]](https://arxiv.org/abs/2602.14439).
